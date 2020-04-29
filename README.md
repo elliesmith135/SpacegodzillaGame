@@ -1,5 +1,5 @@
 # Corona Tetris SpaceGodzilla Game by SpaceGodzilla Group
-by Katelyn Clemow (art/sound), Ben Dance (art/sound), Lawren Elderkin (GitHub), Juli Solstice (coding)
+by Katelyn Clemow (art/sound), Ben Dance (art/sound), Lawren Elderkin (GitHub/testing), Juli Solstice (coding)
 for MSCH-C220 Game Technology created April 27th, 2020 due April 29th, 2020
 
 This was created as our final project at Indiana University, as well as part of Game Jam. The theme is Coronavirus, given to us by Prof. Jason Francis, but also because of the current Pandemic the world is experiencing right now. 
