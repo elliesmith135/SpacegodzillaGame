@@ -14,7 +14,5 @@ script = ExtResource( 1 )
 visible = false
 
 [node name="title" parent="." instance=ExtResource( 4 )]
-[connection signal="game_over" from="board" to="." method="_on_board_game_over"]
-[connection signal="pause" from="board" to="." method="_on_board_pause"]
 [connection signal="end_game" from="pause" to="." method="_on_pause_end_game"]
 [connection signal="start" from="title" to="." method="_on_title_start"]
