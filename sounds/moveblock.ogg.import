@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/moveblock.ogg-cde0ca845314dbae4a83548829573cb5.oggstr"
+
+[deps]
+
+source_file="res://sounds/moveblock.ogg"
+dest_files=[ "res://.import/moveblock.ogg-cde0ca845314dbae4a83548829573cb5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

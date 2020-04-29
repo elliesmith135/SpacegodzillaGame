@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/coronabackgroundmusic.ogg-1f4a6b4f102d160febe3ee2a8d383566.oggstr"
+
+[deps]
+
+source_file="res://sounds/coronabackgroundmusic.ogg"
+dest_files=[ "res://.import/coronabackgroundmusic.ogg-1f4a6b4f102d160febe3ee2a8d383566.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/blockplaced.ogg-9f47e0868c63c1db37ff2cdc68d9a1c7.oggstr"
+
+[deps]
+
+source_file="res://sounds/blockplaced.ogg"
+dest_files=[ "res://.import/blockplaced.ogg-9f47e0868c63c1db37ff2cdc68d9a1c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

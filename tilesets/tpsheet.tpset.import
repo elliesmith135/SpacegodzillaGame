@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_tileset"
+type="Resource"
+path="res://.import/tpsheet.tpset-0b4570b4fde72fa8aba6f72233e9d484.res"
+
+[deps]
+
+files=[ "tpsheet.png", "res://tilesets/tpsheet.res" ]
+
+source_file="res://tilesets/tpsheet.tpset"
+dest_files=[ "res://.import/tpsheet.tpset-0b4570b4fde72fa8aba6f72233e9d484.res", "tpsheet.png", "res://tilesets/tpsheet.res" ]
+
+[params]
+

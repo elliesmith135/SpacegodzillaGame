@@ -1,0 +1,15 @@
+[remap]
+
+importer="codeandweb.texturepacker_import_tileset"
+type="Resource"
+path="res://.import/tileset.tpset-f538d57b73b8714a6a8b19337a5d766e.res"
+
+[deps]
+
+files=[ "tileset-0.png", "tileset-1.png", "tileset-2.png", "res://tilesets/FinalProject_BlockArtSingles/tileset.res" ]
+
+source_file="res://tilesets/FinalProject_BlockArtSingles/tileset.tpset"
+dest_files=[ "res://.import/tileset.tpset-f538d57b73b8714a6a8b19337a5d766e.res", "tileset-0.png", "tileset-1.png", "tileset-2.png", "res://tilesets/FinalProject_BlockArtSingles/tileset.res" ]
+
+[params]
+
