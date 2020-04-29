@@ -2,7 +2,7 @@
 by Katelyn Clemow (art/sound), Ben Dance (art/sound), Lawren Elderkin (GitHub/testing), Juli Solstice (coding)
 for MSCH-C220 Game Technology created April 27th, 2020 due April 29th, 2020
 
-This was created as our final project at Indiana University, as well as part of Game Jam. The theme is Coronavirus, given to us by Prof. Jason Francis, but also because of the current Pandemic the world is experiencing right now. 
+This was created as our final project at Indiana University, as well as part of Game Jam - where we only have 48 hours to create an entire, working game. The theme is Coronavirus, given to us by Prof. Jason Francis, but also because of the current Pandemic the world is experiencing right now. 
 
 We decided to create a Tetris-like game that included blocks of Clorox wipes, toilet paper, hand soap, a germ, gloves, and a face mask – only some of the essential items that people are buying in bulk these days. The way we thought of this was just brainstorming. We used Discord to communicate our ideas to one another. Some difficulties we had during the creation of SpaceGodzilla Tetris was creating the tilemap that would fit correctly in the game. We had created the blocks but then had to go in twice and resize and recreate the tilemaps. Although it was an easy fix, due to our group not all being online at the same time, we had to wait between each mistake for the other person to get online. We also had problems during testing. Godot kept freezing on us, so we had to exit the program and reopen it several times. Debugging was also a long process. 
 
