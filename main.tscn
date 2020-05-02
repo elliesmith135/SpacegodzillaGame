@@ -9,6 +9,7 @@
 script = ExtResource( 1 )
 
 [node name="board" parent="." instance=ExtResource( 2 )]
+board_size = Vector2( 10, 20 )
 
 [node name="pause" parent="." instance=ExtResource( 3 )]
 visible = false
